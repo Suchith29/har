@@ -33,19 +33,19 @@ const Contact = () => {
     {
       icon: <Mail size={24} />,
       title: "Email",
-      detail: "hello@harautomations.com",
-      link: "mailto:hello@harautomations.com"
+      detail: "harautomations@gmail.com",
+      link: "mailto:harautomations@gmail.com"
     },
     {
       icon: <Phone size={24} />,
       title: "Phone",
-      detail: "+1 555 137 9545",
-      link: "tel:+15551379545"
+      detail: "+91 9346892358",
+      link: "tel:+919346892358"
     },
     {
       icon: <MapPin size={24} />,
       title: "Address",
-      detail: "123 Innovation Drive, Tech City, TC 12345",
+      detail: "L.B Nagar, Hyderabad.",
       link: "#"
     }
   ];

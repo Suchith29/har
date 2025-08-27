@@ -53,15 +53,15 @@ const Footer = () => {
             <div className="footer-contact">
               <div className="contact-item">
                 <Mail size={16} />
-                <span>hello@harautomations.com</span>
+                <span>harautomations@gmail.com</span>
               </div>
               <div className="contact-item">
                 <Phone size={16} />
-                <span>+1 555 137 9545</span>
+                <span>+91 9346892358</span>
               </div>
               <div className="contact-item">
                 <MapPin size={16} />
-                <span>123 Innovation Drive, Tech City</span>
+                <span>L.B Nagar, Hyderabad.</span>
               </div>
             </div>
           </motion.div>
