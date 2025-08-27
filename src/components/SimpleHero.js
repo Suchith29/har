@@ -11,9 +11,9 @@ const SimpleHero = () => {
   ];
 
   const contactInfo = [
-    { icon: <Mail size={20} />, detail: "hello@harautomations.com", link: "mailto:hello@harautomations.com" },
-    { icon: <Phone size={20} />, detail: "+1 555 137 9545", link: "tel:+15551234567" },
-    { icon: <MapPin size={20} />, detail: "123 Innovation Drive, Tech City", link: "#" }
+    { icon: <Mail size={20} />, detail: "harautomations@gmail.com", link: "mailto:harautomations@gmail.com" },
+    { icon: <Phone size={20} />, detail: "+91 9346892358", link: "tel:+919346892358" },
+    { icon: <MapPin size={20} />, detail: "L.B Nagar, Hyderabad.", link: "#" }
   ];
 
   return (
